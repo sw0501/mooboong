@@ -1,9 +1,7 @@
 # :guitar: Mooboong 합주실 예약 시스템
 
 <div align="center">
-
-    <img src="http://104.199.126.203:3000/CI.jpg">
-
+    <img src="http://104.199.126.203:3000/CI.jpg"/>
 </div>
 
 <blockquote>
