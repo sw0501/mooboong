@@ -40,7 +40,7 @@
 
 ## 서비스 아키텍처
 
-![Mooboong](https://github.com/user-attachments/assets/f949a0af-596d-490d-adf6-ccf1569888b6)
+![무붕 아키텍처](https://github.com/user-attachments/assets/f949a0af-596d-490d-adf6-ccf1569888b6)
 
 ## 제공 기능
 
