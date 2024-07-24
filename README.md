@@ -38,6 +38,10 @@
 
 </p>
 
+## 서비스 아키텍처
+
+![Mooboong](https://github.com/user-attachments/assets/f949a0af-596d-490d-adf6-ccf1569888b6)
+
 ## 제공 기능
 
 1. 합주실 예약 - 테이블 뷰로 정기/단일 예약 기능 제공
